@@ -4,7 +4,7 @@
 
 //#define DEBUG_PRINT 
 #define BLUETOOTH_RELAY
-#define SEND_TEST_MSG 
+//#define SEND_TEST_MSG 
 //#define ADA_M0_RFM69
 //#define ADA_RFM69_WING
 #define PRO_MINI_RFM69

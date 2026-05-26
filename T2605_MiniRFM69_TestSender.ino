@@ -182,7 +182,7 @@ void setup()
     Serial.begin(9600);
     SerialX.begin(9600);
 
-    Serial.print("T2503_RFM69_Modem"); Serial.print(" Compiled: ");
+    Serial.print("T2605_MiniRFM69_TestSender"); Serial.print(" Compiled: ");
     Serial.print(__DATE__); Serial.print(" ");
     Serial.print(__TIME__); Serial.println();
 
